@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.kekexi55.pluginleetcode.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.kekexi55.pluginleetcode.MyBundle
 
 class MyApplicationService {
 
